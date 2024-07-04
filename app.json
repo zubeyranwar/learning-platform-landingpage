@@ -1,0 +1,10 @@
+{
+  "name": "Course Learning Website",
+  "description": "",
+  "formation": {
+    "web": {
+      "quantity": 1
+    }
+  },
+  "buildpacks": [{}]
+}
